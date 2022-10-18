@@ -1,4 +1,4 @@
-##              ♡ ʟᴜᴄᴋʏ ✘ ʀᴏʙᴏᴛ ♡
+##              ♡ ɴᴀɪɴᴀ ✘ ʀᴏʙᴏᴛ ♡
 
 
 
@@ -11,13 +11,13 @@
 </pre>
 <details><summary> <h3><b>ᴅᴇᴘʟᴏʏᴍᴇɴᴛ !</b></h3> </summary>
 <pre>
-<b><i>••ᴅᴇᴘʟᴏʏ ᴇᴍɪᴋᴏ ʀᴏʙᴏᴛ ᴛᴏ ʜᴇʀᴏᴋᴜ••</i></b>
-<p><a href="https://heroku.com/deploy?template=https://github.com/NAINA-XD/lucky-robot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200""/></a></p>
+<b><i>••ᴅᴇᴘʟᴏʏ ɴᴀɪɴᴀ ʀᴏʙᴏᴛ ᴛᴏ ʜᴇʀᴏᴋᴜ••</i></b>
+<p><a href="https://heroku.com/deploy?template=https://github.com/MissNaina/NainaRobot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200""/></a></p>
 </pre>
 
 <pre>
-<b><i>••ᴅᴇᴘʟᴏʏ ʟᴜᴄᴋʏ ʀᴏʙᴏᴛ ᴛᴏ ᴏᴋᴛᴇᴛᴏ••</i></b>
-<p><a href="https://cloud.okteto.com/deploy?repository=https://github.com/NAINA-XD/lucky-robot"><img src="https://img.shields.io/badge/Deploy_To_Okteto%20%20-black?style=for-the-badge&logo=Okteto" width="200"/></a></p>
+<b><i>••ᴅᴇᴘʟᴏʏ ɴᴀɪɴᴀ ʀᴏʙᴏᴛ ᴛᴏ ᴏᴋᴛᴇᴛᴏ••</i></b>
+<p><a href="https://cloud.okteto.com/deploy?repository=https://github.com/MissNaina/NainaRobot"><img src="https://img.shields.io/badge/Deploy_To_Okteto%20%20-black?style=for-the-badge&logo=Okteto" width="200"/></a></p>
 </details>
 <details>
 <summary><b><h3>ᴄʀᴇᴅɪᴛꜱ</h3></b></summary>
@@ -28,7 +28,7 @@
 
 
 
-➥ <a href="https://github.com/NAINA-XD" alt="NAINA-XD"> <img src="https://img.shields.io/badge/LUCKY XD-90302f?logo=github" /></a>  
+➥ <a href="https://github.com/iRIYANSH" alt="iRIYANSH"> <img src="https://img.shields.io/badge/RIYU XD-90302f?logo=github" /></a>  
 ➥ <a href="https://github.com/KingAbishnoi" alt="KingAbishnoi"> <img src="https://img.shields.io/badge/KINGABISHNOI-90302f?logo=github" /></a>  
 
 </details>
