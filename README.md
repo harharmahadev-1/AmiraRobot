@@ -43,9 +43,9 @@
 <p align="center">
 <pre>
 <h3><b><i>ꜰᴏʀᴋ ɴᴅ ꜱᴛᴀʀꜱ</i></b></h3>
-<img src="https://img.shields.io/github/license/MRLUCKYXD/EMIKO-ROBOT.svg"> <img src="https://img.shields.io/github/forks/mrluckyxd/EMIKO-ROBOT.svg"> <img src="https://img.shields.io/github/stars/mrluckyxd/EMIKO-ROBOT.svg">
-<a href="https://github.com/mrluckyxd/EMIKO-ROBOT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mrluckyxd&repo=EMIKO-ROBOT&theme=chartreuse-dark"></a>
-<a href="https://github.com/mrluckyxd/EMIKO-ROBOT/fork"><img src="https://img.shields.io/badge/Fork%20Emiko%20Robot-black?style=for-the-badge&logo=github"></a>
+<img src="https://img.shields.io/github/license/MissNaina/NainaRobot.svg"> <img src="https://img.shields.io/github/forks/MissNain/NainaROBOT.svg"> <img src="https://img.shields.io/github/stars/MissNaina/NainaRobot.svg">
+<a href="https://github.com/MissNaina/NainaROBOT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MissNaina&repo=MissNaina&theme=chartreuse-dark"></a>
+<a href="https://github.com/MissNaina/Naina/fork"><img src="https://img.shields.io/badge/Fork%20Naina%20Robot-black?style=for-the-badge&logo=github"></a>
 </pre></p>
 
 
