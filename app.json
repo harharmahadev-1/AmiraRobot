@@ -1,13 +1,13 @@
 {
-      "name": "ɴᴀɪɴᴀ ✘ ʀᴏʙᴏᴛ",
+      "name": "AMIRA ✘ ʀᴏʙᴏᴛ",
       "description": "ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ.",
-      "logo": "https://telegra.ph/file/88de7bb7989fb6cf13734.jpg",
+      "logo": "https://te.legra.ph/file/79629b4acd6e644bbe172.jpg",
       "keywords": [
          "telegram",
          "sexy",
          "group",
          "manager",
-         "LUCKY"
+         "DARKHUNTER"
       ],   
    "repository": "https://github.com/NAINA-XD/LUCKY-ROBOT",
    "stack": "heroku-20",
@@ -55,12 +55,12 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "RIYUXD"
+         "value": "warning_volt"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to Fallen Support than consider you made an enemy.",
          "required": true,
-         "value": "LOBE_JU"
+         "value": "https://t.me/+bOw2IUP3ILI2Mjdl"
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
@@ -147,7 +147,7 @@
       "DONATION_LINK": {
          "description": "Link where you would like to receive donations. If you are a noob, better leave it linking to Anonymous",
          "required": false,
-         "value": "https://t.me/RiyuXD"
+         "value": "https://t.me/warning_volt"
       },
       "DEL_CMDS": {
          "description": "Set this to True if you want to delete command messages from users who don't have the perms to run that command.",
